@@ -15,6 +15,7 @@ public class average {
             }
             double d = c/studentNum;
             System.out.println(a + "班的平均成绩是：" +d);
+            
         }
     }
 }
